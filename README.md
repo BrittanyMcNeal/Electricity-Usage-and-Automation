@@ -20,7 +20,7 @@ I used Pandas to join my energy usage with the billing schedule and print some s
 > Usage per day so far: 36
 > Target usage for the rest of the cycle: 27
 
-I also used SmartMeterTexas API to graph my energy usage over time with the pink line being my usage the the blue being my target usage.
+I also graphed my energy expenditure per billing cycle. The pink line is my actual usage and the blue is my target usage.
 
 ![Energy_Usage_Sept_Oct](https://i.imgur.com/Jf0HMWN.png)
 
