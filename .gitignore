@@ -134,3 +134,10 @@ secrets.ini
 # Pycharm
 .idea
 .idea/
+
+# Data Files
+meter_info.csv
+current_usage.csv
+End_Date.csv
+historic_hourly_trend.csv
+interval_trends.csv
